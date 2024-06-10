@@ -1,2 +1,2 @@
 # CryptWinCLI
-When using it, Give it a correct path.
+When using it, Make sure to give it a correct path.
